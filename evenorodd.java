@@ -10,8 +10,9 @@ System.out.println=("enter an integer to check whether it even or odd");
 Scanner in=new Scaner(System.in);
 if (x%2==0)
 System.out.println("even".);
-else
+elif
 System.out.println("odd".);
-
+else
+	System.out.println("invalid".);
 	}
 }
