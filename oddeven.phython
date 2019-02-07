@@ -1,0 +1,6 @@
+num=int(input("enter the value"))
+mod=((num%2)==0)
+if mod>0:
+print("the no is odd")
+else:
+print(the no is even)
