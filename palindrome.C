@@ -18,11 +18,11 @@ int i, len, flag;
 	}
 	if(flag == 0)
 	{
-	printf("\n %s is a Palindrome String", str);
+	printf("yes", str);
 	}
 	else
 	{
-	printf("\n %s is Not a Palindrome String", str);
+	printf("no", str);
 	}	
 	return 0;
 }
